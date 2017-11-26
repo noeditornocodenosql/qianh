@@ -29,7 +29,6 @@
 .service_scope_dl01{width:362px;margin-right:55px;}
 .service_scope_dl01 dt{text-align:center;padding-bottom:20px;}
 .service_scope_int{height:221px;background: url(../images/service_scope_bg.png) no-repeat;font-family:"Microsoft YaHei",Arial,Helvetica,sans-serif,"宋体";font-size:14px;line-height:32px;padding:50px 39px 0 39px;}
-.service_scope_title{margin-top:10px;}
 .service_scope_title_nu{font-family:Arial;font-size:22px;color:#ccc; margin-top:2px;}
 .service_scope_title_ch{font-family:"Microsoft YaHei",Arial,Helvetica,sans-serif,"宋体";font-size:22px;color:#666;}
 .service_scope_title span{display:block;float:left;}
@@ -39,7 +38,7 @@
 .general_title table{margin:0 auto;margin-bottom:50px;}
 .general_title table td, .general_title table{text-align:center;}
 
-p {
+.service_scope_sub_con p {
     display: block;
     -webkit-margin-before: 1em;
     -webkit-margin-after: 1em;
