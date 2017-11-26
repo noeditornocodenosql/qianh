@@ -32,7 +32,7 @@ body, button, input, select, textarea {
 <script charset="utf-8" src="http://map.qq.com/api/js?v=2.exp"></script>
 <script>
 var init = function() {
-    var center = new qq.maps.LatLng(31.8793402508,117.2641267092);
+    var center = new qq.maps.LatLng(31.8799100000,117.2827000000);
     var map = new qq.maps.Map(document.getElementById('container'),{
         center: center,
         zoom: 13
